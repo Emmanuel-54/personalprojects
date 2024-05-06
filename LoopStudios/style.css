@@ -1,0 +1,87 @@
+header{
+    background-color: white;
+}
+#navbar{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+}
+li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    color: gray;
+    text-align: center;
+    padding: 14px ;
+}
+.mother{
+    margin: 0;
+    text-align: center;
+    overflow: hidden;
+}
+.logo{
+    float: left;
+    width:400px;
+    text-align: center;
+    padding: 60px;
+}
+.logo h1{
+    font-size: 50px;
+}
+.inner{
+    text-align: justify;
+}
+.log1{
+    background-image: url(./images/bg-intro-desktop.svg);
+    width: 727px;
+    float: left;
+    margin-top: -300px;
+}
+.log1 img{
+   width: 650px;
+   margin-left: 200px;
+   margin-top: 200PX;
+   
+}
+
+button{
+    background-image: linear-gradient(to left, limegreen, rgba(0, 0, 139, 0.891));
+    padding:15px 40px;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+}
+.footer{
+    background-color: rgb(0, 0, 23);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    clear: both;
+}
+.divfooter{
+    text-align: justify;
+    width: 250px;
+    display: inline-block;
+}
+.any{
+    margin-top: 40px;
+}
+.any img{
+    width: 30px;
+}
+#shift{
+    margin-left: 10px;
+}
+.flink li{
+    display: block;
+    padding-top: 10px;
+    margin-top: 10px;
+}
